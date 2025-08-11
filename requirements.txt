@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pillow
+pandas
+transformers
+torchvision
+torch
+python-multipart
